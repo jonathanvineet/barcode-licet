@@ -52,3 +52,7 @@ if __name__ == "__main__":
         scan_barcode_from_image(sys.argv[1])
     else:
         scan_barcode_from_webcam()
+
+#Done by Jonathan
+#Language: Python
+#Team Phoenix Rocks
